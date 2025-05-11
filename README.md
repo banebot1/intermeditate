@@ -426,10 +426,7 @@
         Notes payable, due December 31, 2025</p>
     <p>Current liabilities = 1,000,000 + 500,000 + 900,000 + 600,000 = 3,900,000</p>
     </p>
-  </div>
-</div>
-</section>
-</div>
+
  
 </div>
 <script>
